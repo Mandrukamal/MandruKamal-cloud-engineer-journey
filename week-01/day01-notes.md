@@ -59,3 +59,12 @@ Dynamic or predictive scaling policies let you add or remove EC2 instance capaci
 With dynamic scaling capabilities, the service will be able to match the demand in a live manner, understanding when resources are over-provisioned or under-provisioned based on the CPU utilization or such metrics.
 Amazon EC2 Auto Scaling detects impaired EC2 instances and unhealthy applications and replaces the instances without intervention.
 Amazon EC2 Auto Scaling provides several scaling options: manual, scheduled, dynamic or on demand, and predictive. When you know that you will have significant (or not enough) traffic in a certain period, you can schedule the service to launch the resources in advance to be ready to serve the traffic.
+
+## Important points about EC2
+
+EC2 instances can be launched in multiple availability zones for high availability.
+Key pairs are used to securely connect to EC2 instances.
+Security groups act as virtual firewalls to control inbound and outbound traffic.
+Elastic IP addresses can be associated with instances for static IP addressing.
+EC2 instances can be monitored using Amazon CloudWatch for performance metrics.
+Data can be stored on instance store volumes or Amazon EBS (Elastic Block Store) volumes.
