@@ -12,7 +12,8 @@ AWS | Linux | Bash | Docker | Terraform | GitHub Actions
 ## Progress
 | Week | Theme | Status |
 |------|-------|--------|
-| Week 1 | AWS Foundations + DevOps Core | In Progress |
+| Week 1 | Getting Started with AWS Cloud Essentials - AWS Global infra, Compute, Storage, Databases and Labs  | Completed |
+| Week 2 | Getting Started with AWS Cloud Essentials - Networking, Security, Pricing  | In-progress |
 
 ## Projects
 *(Coming soon - building daily)*
