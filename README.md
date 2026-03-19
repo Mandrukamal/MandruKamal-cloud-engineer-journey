@@ -10,10 +10,13 @@ Become a job-ready AWS Cloud & DevOps Engineer
 AWS | Linux | Bash | Docker | Terraform | GitHub Actions
 
 ## Progress
+
 | Week | Theme | Status |
 |------|-------|--------|
-| Week 1 | Getting Started with AWS Cloud Essentials - AWS Global infra, Compute, Storage, Databases and Labs  | Completed |
-| Week 2 | Getting Started with AWS Cloud Essentials - Networking, Security, Pricing  | In-progress |
+| Week 1 | study block - Getting Started with AWS Cloud Essentials - AWS Global infra, Compute, Storage, Databases and Labs  | Completed |
+| Week 1 | lab - Lab01 and Lab02 with screenshots and documentation  | Completed |
+| Week 2 | study block - Getting Started with AWS Cloud Essentials - Networking, Security, Pricing  | Completed |
+| Week 2 | lab - Lab03 with screenshots and documentation | Completed |
 
 ## Projects
 *(Coming soon - building daily)*
