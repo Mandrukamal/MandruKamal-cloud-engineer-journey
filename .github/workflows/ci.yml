@@ -21,7 +21,7 @@ jobs:
 
       - name: Build Docker image
         run: |
-          docker build -t kamal-webapp:${{ github.sha }} ./week3/lab04-docker
+          docker build -t kamal-webapp:${{ github.sha }} ./week-02/lab/lab04
 
       - name: Verify Docker image exists
         run: |
