@@ -15,8 +15,10 @@ AWS | Linux | Bash | Docker | Terraform | GitHub Actions
 |------|-------|--------|
 | Week 1 | study block - Getting Started with AWS Cloud Essentials - AWS Global infra, Compute, Storage, Databases and Labs  | Completed |
 | Week 1 | lab - Lab01 and Lab02 with screenshots and documentation  | Completed |
-| Week 2 | study block - Getting Started with AWS Cloud Essentials - Networking, Security, Pricing  | Completed |
-| Week 2 | lab - Lab03 with screenshots and documentation | Completed |
+| Week 1 | study block - Getting Started with AWS Cloud Essentials - Networking, Security, Pricing  | Completed |
+| Week 1 | lab - Lab03 with screenshots and documentation | Completed |
+| Week 2 | study block + lab - Docker and commands, lab04 | Completed |
+| Week 2 | study block + lab - GitHub Actions workflows, lab05 | Completed |
 
 ## Projects
 *(Coming soon - building daily)*
